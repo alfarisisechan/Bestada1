@@ -1,4 +1,4 @@
-# Bestada1
+# Bestada
 Bestada Test Nomer 1 (SQL)
 
 - Buatlah query untuk menampilkan semua customer yang berasal dari kota Jakarta
